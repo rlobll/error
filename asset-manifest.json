@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/error.git/static/css/main.999b4dd0.css",
+    "main.js": "/error.git/static/js/main.c498f6fe.js",
+    "index.html": "/error.git/index.html",
+    "main.999b4dd0.css.map": "/error.git/static/css/main.999b4dd0.css.map",
+    "main.c498f6fe.js.map": "/error.git/static/js/main.c498f6fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.999b4dd0.css",
+    "static/js/main.c498f6fe.js"
+  ]
+}
